@@ -36,3 +36,10 @@ To create a secure and transparent digital ecosystem where ownership of any digi
 ## Contract Details: 0x49cc46208e9a2762947b9be013031b7b5b6c855A
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/9d894a85-4512-4e79-b536-7751084c3eb1" />
 
+---
+
+## 🛠️ Setup & Deployment
+
+### 1️⃣ Install dependencies
+```bash
+npm install
