@@ -1,0 +1,26 @@
+{
+  "name": "chainharbor",
+  "version": "1.0.0",
+  "description": "ChainHarbor - A decentralized asset registry for secure ownership and transfer of digital assets.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network sepolia"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "solidity",
+    "hardhat",
+    "decentralized"
+  ],
+  "author": "Mriganka Shekhar Barman",
+  "license": "MIT",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.7.0",
+    "hardhat": "^2.22.0"
+  }
+}
